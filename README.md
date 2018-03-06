@@ -1,2 +1,2 @@
 # teaching-notebooks
-Jupyter notebooks about robotics topics
+Jupyter notebooks for teaching Robotics and Machine Learning
