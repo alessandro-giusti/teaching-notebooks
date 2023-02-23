@@ -1,10 +1,9 @@
-
-machine learning/\.ipynb_checkpoints/
-
-robotics/\.ipynb_checkpoints/
+.ipynb_checkpoints/
 
 robotics/bin/
+robotics/ICP matching/
 data science/.ipynb_checkpoints/Text classification-checkpoint.ipynb
 data science/.ipynb_checkpoints/coronavirus-checkpoint.ipynb
 data science/.ipynb_checkpoints/COVID-19-checkpoint.ipynb
 machine learning/logs/
+*.jupyterlab-workspace
