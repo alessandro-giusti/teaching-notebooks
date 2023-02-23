@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
 
+robotics/odometry_hw/
+robotics/utils/
 robotics/bin/
 robotics/ICP matching/
 data science/.ipynb_checkpoints/Text classification-checkpoint.ipynb
@@ -7,3 +9,4 @@ data science/.ipynb_checkpoints/coronavirus-checkpoint.ipynb
 data science/.ipynb_checkpoints/COVID-19-checkpoint.ipynb
 machine learning/logs/
 *.jupyterlab-workspace
+robotics/ICP matching.zip
